@@ -6,6 +6,12 @@ Use it to plan a room layout, recreate an existing floor plan or work through a 
 
 **[Create a 3D home design with your AI assistant →](https://arcadium3d.com/create-with-ai)**
 
+## Why use Arcadium instead of asking AI to build a 3D app?
+
+An AI assistant can interpret your floor plan and work through a design with you. Building a custom 3D app to display that design takes additional time and tokens, and means recreating controls for navigation, editing, furniture, materials and sharing.
+
+Arcadium 3D already provides those tools in your browser. Your assistant focuses on the layout and returns a scene you can open and edit. Move a door, widen a window or try a furniture arrangement using Arcadium's controls, without regenerating the whole design for each adjustment. Native objects preserve what each piece is, so walls, doors and furniture remain individually editable.
+
 ## From floor plan to editable 3D design
 
 <table>
